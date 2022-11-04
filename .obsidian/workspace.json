@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "68a52429dd6c01d3",
+        "id": "37b5e3f68e212403",
         "type": "tabs",
         "children": [
           {
-            "id": "eeecee37c9d79d20",
+            "id": "8446710c2bfd12eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ketentuan.md",
+                "file": "meet/2022-10-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ketentuan.md",
+                "file": "meet/2022-10-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ketentuan.md",
+                "file": "meet/2022-10-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ketentuan.md"
+                "file": "meet/2022-10-20.md"
               }
             }
           }
@@ -136,11 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eeecee37c9d79d20",
+  "active": "09ff9afdd0beb32f",
   "lastOpenFiles": [
-    "2022-11-04.md",
+    "Lainnya/rencana.md",
+    "meet/2022-10-20.md",
+    "Lainnya/latar belakang.md",
+    "Lainnya/ketentuan.md",
     "bimbingan.md",
-    "fishbone.png",
-    "meet.md"
+    "Bimbingan/2022-11-01.md",
+    "Riset TI/2022-11-04.md",
+    "Riset TI/riset ti.md",
+    "Riset TI/2022-10-21.md",
+    "Riset TI/Untitled.md"
   ]
 }
