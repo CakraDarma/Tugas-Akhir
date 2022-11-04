@@ -1,0 +1,24 @@
+## 21-10-2022
+
+-   tempat waktu
+    -   tempat dan waktu harus sinkron
+    -   penelitian tidak total di TI
+-   alur analisis
+    -   sdlc
+-   sumber data
+    -   berapa minimum sampel dan sebagainya
+    -   metode apa digunakan
+    -   harus dijelaskan secara lengkap
+-   instrumen tools digunakan
+    -   dibab 4 juga ada seperti ini tapi bab 4 uji coba dan dokumentasi
+-   gambaran umum sistem
+    -   pada seminar ide berupa modul utama yang dikerjakan dfd level 0 termasuk arsitektur aplikasi dan jaringan
+    -   termasuk design bisnis proses terakhir design basis data (normlasisasi kalau dihapus dan master data hilang maka itu salah (BCNF dan ERD termasuk))
+-   perancangan sistem
+    -   sop dll
+    -   SOP bagaimana cara menjalanakan suatu jobdesc
+        -   sop pendetailan dari proses
+        -   jobdesc pendetailan dari jebatan tertentu
+-   Implementasi sistem
+-   tugas akhir minimal 80 halaman
+-   bab 1 dan bab 2 minimmal 5 jurnal atau buku

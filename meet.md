@@ -1,0 +1,30 @@
+-   rancang animasi
+    -   https://ojs.unud.ac.id/index.php/spektrum/article/download/20074/13342
+-   bahas apa
+    -   tata tulis skripsi ada dimana
+    -   jurnalnya nanti kita buat harus terkait judul ini atau tidak
+    -   toolsnya apa
+        -   framework enaknya keknya pake nextjs (capek buat rest api)
+        -   tailwind
+        -   tau cakraUI gak?
+        -   autentikasi tu kek gmn
+    -   fitur apa saja
+        -   pengurus pura dapat login untuk
+            -   nama pura
+            -   deskripsi pura
+            -   thumbnail pura
+            -   gambar tiap pelinggih dan fungsinya (?)
+            -   pengurus pura (nanti design kek ada templatenya tu gambar pengurus dikanan atau di paling bawah)
+            -   odalan pura (kalo bisa jangan cuma text (mungkin api tanggal dll))
+            -   maps (lokasi pura make API google)
+            -   video (mungkin lebih dari 1 video untuk profil dan animasi rah adi)
+        -   user tidak dapat login (?)
+            -   cuma bisa lihat data hasil input pengurus pura
+    -   kan kita disuruh nyertain jurnal tu, mau buat google drive gak terkait judul masing masing
+    -   cara cari pembimbing 2
+        -   fungsi pembimbing 2 apa
+    -   cara bimbingan dari tiap bab yang udah dikerjain (sistem bimbingan)
+    -   animasi sejarah atau tata letak pura (terserah rah adi yg udah konsul sama pak oka)
+    -   ngumpulin ide masing masing
+    -   ada punya refrensi kating gak?
+    -   kata pak oka nanti contoh dari konten websitenya tu merajan ku nanti bantuin isi dari fitur web tadi misla foto dll
